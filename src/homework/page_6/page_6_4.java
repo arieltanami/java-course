@@ -1,0 +1,22 @@
+package homework.page_6;
+
+import java.util.Scanner;
+
+public class page_6_4 {
+    // (4) Calculate and print the total price for entrance to a pool for a given
+    // number of adults and children.
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+
+        int adultPrice = 25;
+        int childPrice = 15;
+
+        System.out.println("Enter the number of adults: ");
+        int adult = in.nextInt();
+        System.out.println("Enter the number of children: ");
+        int child = in.nextInt();
+
+        int totalEntrancePrice = adult * adultPrice + child * childPrice;
+        System.out.println("The total price for entrance is: " + totalEntrancePrice);
+    }
+}
