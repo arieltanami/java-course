@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_3 {
+public class page6_3 {
     // (3) Calculate and print the total price for 10 notebooks and 2 folders.
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_5 {
+public class page6_5 {
     // (5) Calculate and print the change from a 200 bill after paying for
     // supermarket goods.
     public static void main(String[] args) {

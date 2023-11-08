@@ -1,8 +1,8 @@
-package lessons.page_8;
+package lessons.page8;
 
 import java.util.Scanner;
 
-public class page_8_2 {
+public class page8_2 {
     // (2) Calculate and print the value of a sum of money in Shekels, given the
     // exchange rate and the sum in Dollars.
     public static void main(String[] args) {

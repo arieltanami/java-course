@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_4 {
+public class page6_4 {
     // (4) Calculate and print the total price for entrance to a pool for a given
     // number of adults and children.
     public static void main(String[] args) {

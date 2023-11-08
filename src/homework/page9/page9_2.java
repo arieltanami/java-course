@@ -1,8 +1,8 @@
-package homework.page_9;
+package homework.page9;
 
 import java.util.Scanner;
 
-public class page_9_2 {
+public class page9_2 {
     /**
      * (2) כתוב תכנית שקולטת מספר תלת-ספרתי. התכנית תדפיס
      * א. סכום ספרותיו של המספר

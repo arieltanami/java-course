@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_6 {
+public class page6_6 {
     // (6) Calculate and print the result of the expression b² - 4ac for given
     // values of a, b, and c.
     public static void main(String[] args) {

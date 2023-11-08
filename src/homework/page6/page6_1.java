@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_1 {
+public class page6_1 {
     // (1) Calculate and print the perimeter of a triangle.
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

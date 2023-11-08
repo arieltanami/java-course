@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_2 {
+public class page6_2 {
     // (2) Calculate and print the perimeter and area of a rectangle.
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

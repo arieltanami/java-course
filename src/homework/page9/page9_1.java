@@ -1,8 +1,8 @@
-package homework.page_9;
+package homework.page9;
 
 import java.util.Scanner;
 
-public class page_9_1 {
+public class page9_1 {
     /**
      * (1) כתוב תכנית שקולטת מספר דו-ספרתי. התכנית תדפיס:
      * א. סכום ספרותיו של המספר

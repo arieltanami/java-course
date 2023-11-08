@@ -1,8 +1,8 @@
-package homework.page_6;
+package homework.page6;
 
 import java.util.Scanner;
 
-public class page_6_7 {
+public class page6_7 {
     // (7) Calculate and print the product of two numbers, then increase the first
     // number by 3, decrease the second number by 1, and calculate and print the new
     // product.

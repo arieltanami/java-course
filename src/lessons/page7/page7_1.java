@@ -1,4 +1,4 @@
-package lessons.page_7;
+package lessons.page7;
 
 import java.util.Scanner;
 

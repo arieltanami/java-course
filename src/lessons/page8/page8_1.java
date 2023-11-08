@@ -1,8 +1,8 @@
-package lessons.page_8;
+package lessons.page8;
 
 import java.util.Scanner;
 
-public class page_8_1 {
+public class page8_1 {
   // (1) Calculate and print the average of a student's grades in three exams.
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
