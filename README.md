@@ -19,8 +19,8 @@ The exercises are sorted according to the page number they are in the course boo
     │   │   ├── page6_6.java            # (6) Calculate and print the result of the expression b² - 4ac for given values of a, b, and c (∆)
     │   │   └── page6_7.java            # (7) Calculate and print the product of 2 nums, then calculate and print (first_num+=3, second_num-=1).
     │   ├── page8                   # Homework 07/11/2023
-    │   │   ├── page8_1.java           # (1) Calculates and print the average of three exam grades.
-    │   │   └── page8_2.java           # (2) convert a sum from Dollars to Shekels using a given exchange rate.
+    │   │   ├── page8_1.java            # (1) Calculates and print the average of three exam grades.
+    │   │   └── page8_2.java            # (2) convert a sum from Dollars to Shekels using a given exchange rate.
     ├── lessons
     │   ├── page7                    # Classwork 07/11/2023
     │   │   └── page7_1.java            # Calculate and print the hundreds, tens and units of a (two-digit and) three-digit nums

@@ -13,7 +13,7 @@ public class page9_2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        int num, meot, asarot, ahadot;
+        int num, meot, asarot, ahadot, reverse;
         // Prompt the user to enter a three-digit number
         System.out.println("Enter a three-digit number: ");
         num = in.nextInt();
@@ -30,6 +30,7 @@ public class page9_2 {
         System.out.println("The product of the digits is: " + meot * asarot * ahadot);
 
         // Print the number with the digits in reverse order
-        System.out.println("The number with the digits in reverse order is: " + ahadot + asarot + meot);
+        reverse = ahadot * 100 + asarot * 10 + meot;
+        System.out.println("The number with the digits in reverse order is: " + reverse);
     }
 }
