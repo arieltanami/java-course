@@ -13,24 +13,22 @@ public class page9_2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        int num, meot, asarot, ahadot, reverse;
-        // Prompt the user to enter a three-digit number
+        int num, meot, asarot, ahadot, sum, product, reverse;
+        num = meot = asarot = ahadot = sum = product = reverse = 0;
+
         System.out.println("Enter a three-digit number: ");
         num = in.nextInt();
 
-        // Store each digit in a separate variable
         meot = num / 100;
         asarot = (num / 10) % 10;
         ahadot = num % 10;
 
-        // Print the sum of the digits
-        System.out.println("The sum of the digits is: " + (meot + asarot + ahadot));
-
-        // Print the product of the digits
-        System.out.println("The product of the digits is: " + meot * asarot * ahadot);
-
-        // Print the number with the digits in reverse order
+        sum = meot + asarot + ahadot;
+        product = meot * asarot * ahadot;
         reverse = ahadot * 100 + asarot * 10 + meot;
+
+        System.out.println("The sum of the digits is: " + sum);
+        System.out.println("The product of the digits is: " + product);
         System.out.println("The number with the digits in reverse order is: " + reverse);
     }
 }

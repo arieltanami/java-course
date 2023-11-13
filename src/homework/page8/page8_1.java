@@ -1,4 +1,4 @@
-package lessons.page8;
+package homework.page8;
 
 import java.util.Scanner;
 

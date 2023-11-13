@@ -20,12 +20,15 @@ The exercises are sorted according to the page number they are in the course boo
     │   │   └── page6_7.java            # (7) Calculate and print the product of 2 nums, then calculate and print (first_num+=3, second_num-=1).
     │   ├── page8                   # Homework 07/11/2023
     │   │   ├── page8_1.java            # (1) Calculates and print the average of three exam grades.
-    │   │   └── page8_2.java            # (2) convert a sum from Dollars to Shekels using a given exchange rate.
-    ├── lessons
-    │   ├── page7                    # Classwork 07/11/2023
-    │   │   └── page7_1.java            # Calculate and print the hundreds, tens and units of a (two-digit and) three-digit nums
-    │   └── page9                    # Classwork 07/11/2023
+    │   │   └── page8_2.java            # (2) Convert a sum from Dollars to Shekels using a given exchange rate.
+    │   └── page9                   # Homework 07/11/2023
     │       ├── page9_1.java            # (1) Perform operations on digits of a two-digit num: sum, product, and reversal
     │       └── page9_2.java            # (2) Perform operations on digits of a three-digit num: sum, product, and reversal
+    │       ├── page9_3.java            # (3) Sums the leftmost and rightmost two digits of a four-digit number
+    │       ├── page9_4.java            # (4) Converts Omer days into weeks and days
+    │       └── page9_5.java            # (5) Calculates the num of boxes and extra bottles based on a given total num of bottles   
+    ├── lessons
+    │   ├── page7                   # Classwork 07/11/2023
+    │   │   └── page7_1.java            # Calculate and print the hundreds, tens and units of a (two-digit and) three-digit nums
     └── חוברת הקורס א JAVA.docx
 ```
