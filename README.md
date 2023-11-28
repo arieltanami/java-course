@@ -35,7 +35,14 @@ The exercises are sorted according to the page number they are in the course boo
     │   │   ├── page11_2.java           # Convert temperatures between Celsius and Fahrenheit based on user input
     │   │   └── page11_3.java           # Swap two numbers if needed to ensure 'a' is smaller than 'b'
     │   └── page12                  # Homework 21/11/2023
-    │       ├── page12_1.java           # Shaashuon 2023
+    │   │   ├── page12_1.java           # Shaashuon 2023
+    │   └── page17                  # Homework 28/11/2023
+    │       ├── page17_1.java           # Count and print the number of even and odd nums from user input
+    │       ├── page17_2.java           # Count and print the number of positive and negative nums from user input
+    │       ├── page17_3.java           # Count and print the number of nums between 200 and 600 that are divisible by 7
+    │       ├── page17_4.java           # Count and categorizes student grades into excellent, medium, passed, and failed categories
+    │       ├── page17_5.java           # Count and print how many three-digit numbers contain the digit 4
+    │       └── page17_6.java           # Count and print the number of donors who donated 100 shekels or more
     ├── lessons
     │   └── page7                   # Classwork 07/11/2023
     │       └── page7_1.java            # Calculate and print the hundreds, tens and units of a (two-digit and) three-digit nums
