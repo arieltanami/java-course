@@ -17,6 +17,7 @@ public class page9_3 {
 
         System.out.println("Enter a four-digit number: ");
         num = in.nextInt();
+        in.close();
 
         meot = num % 100;
         ahadot = num / 100;

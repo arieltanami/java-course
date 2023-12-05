@@ -14,6 +14,7 @@ public class page6_3 {
         int notebookPrice = in.nextInt();
         System.out.println("Enter the price of a folder: ");
         int folderPrice = in.nextInt();
+        in.close();
 
         int totalPrice = numberOfNotebooks * notebookPrice + numberOfFolders * folderPrice;
         System.out.println("The total price for " + numberOfNotebooks + " notebooks and " + numberOfFolders

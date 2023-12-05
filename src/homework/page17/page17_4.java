@@ -35,6 +35,7 @@ public class page17_4 {
                 failedCount++;
             }
         }
+        in.close();
 
         System.out.println("Number of students who passed: " + passedCount);
         System.out.println("Number of students who failed: " + failedCount);

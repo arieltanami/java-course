@@ -14,6 +14,7 @@ public class page6_6 {
         int b = in.nextInt();
         System.out.println("Enter the third number: ");
         int c = in.nextInt();
+        in.close();
 
         int result = b * b - 4 * a * c;
         System.out.println("The result of b² - 4ac is: " + result);

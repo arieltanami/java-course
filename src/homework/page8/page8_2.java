@@ -12,6 +12,8 @@ public class page8_2 {
         double exchangeRate = in.nextDouble();
         System.out.println("Enter the sum in Dollars: ");
         double sumInDollars = in.nextDouble();
+        in.close();
+
         double sumInShekels = exchangeRate * sumInDollars;
         System.out.println("The sum in Shekels is " + sumInShekels);
     }

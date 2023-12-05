@@ -16,6 +16,7 @@ public class page9_4 {
 
         System.out.println("Enter a number of days in the Sfirat HaOmer (1-49): ");
         num = in.nextInt();
+        in.close();
 
         shavuot = num / 7;
         yamim = num % 7;

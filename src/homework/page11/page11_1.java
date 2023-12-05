@@ -37,5 +37,6 @@ public class page11_1 {
             d = in.nextInt();
             System.out.println("The average is " + ((a + b + c + d) / 4.0));
         }
+        in.close();
     }
 }

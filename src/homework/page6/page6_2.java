@@ -11,6 +11,8 @@ public class page6_2 {
         int length = in.nextInt();
         System.out.println("Enter the width of the rectangle: ");
         int width = in.nextInt();
+        in.close();
+
         int perimeter = 2 * (length + width);
         int area = length * width;
         System.out.println("The perimeter of the rectangle is " + perimeter);

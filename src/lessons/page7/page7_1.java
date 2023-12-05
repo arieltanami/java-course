@@ -24,6 +24,7 @@ public class page7_1 {
 
         System.out.println("Enter x1 (tlat sifrati): ");
         tlat = in.nextInt();
+        in.close();
 
         meot1 = tlat / 100;
         asarot1 = tlat / 10 % 10;

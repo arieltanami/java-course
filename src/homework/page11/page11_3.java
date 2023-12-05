@@ -16,6 +16,7 @@ public class page11_3 {
         System.out.println("Enter two numbers:");
         int a = in.nextInt(); // 10
         int b = in.nextInt(); // 20
+        in.close();
 
         if (a > b) {
             a = a + b; // 10+20=30

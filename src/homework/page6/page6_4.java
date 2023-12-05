@@ -15,6 +15,7 @@ public class page6_4 {
         int adult = in.nextInt();
         System.out.println("Enter the number of children: ");
         int child = in.nextInt();
+        in.close();
 
         int totalEntrancePrice = adult * adultPrice + child * childPrice;
         System.out.println("The total price for entrance is: " + totalEntrancePrice);

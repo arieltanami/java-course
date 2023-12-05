@@ -13,6 +13,7 @@ public class page6_7 {
         int x = in.nextInt();
         System.out.println("Enter the second number: ");
         int y = in.nextInt();
+        in.close();
 
         int product = x * y;
         System.out.println("The product of the numbers is " + product);

@@ -15,6 +15,7 @@ public class page9_5 {
 
         System.out.println("Enter the number of bottles needed for the party: ");
         num = in.nextInt();
+        in.close();
 
         argazim = num / 6;
         bakbukim = num % 6;

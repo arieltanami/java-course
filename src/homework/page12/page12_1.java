@@ -41,6 +41,7 @@ public class page12_1 {
         // קבל את שנת הלידה של המשתמש
         System.out.print("Enter your year of birth (four-digit number): ");
         num -= in.nextInt();
+        in.close();
 
         int meot = num / 100, towLastDigits = num % 100;
         System.out.println("You are " + towLastDigits + " years old. The number you're choosed is " + meot + ".");

@@ -36,5 +36,6 @@ public class page11_2 {
             c = (f - 32) * 5 / 9;
             System.out.println("The temperature in Celsius is " + c);
         }
+        in.close();
     }
 }

@@ -18,6 +18,7 @@ public class page9_2 {
 
         System.out.println("Enter a three-digit number: ");
         num = in.nextInt();
+        in.close();
 
         meot = num / 100;
         asarot = (num / 10) % 10;

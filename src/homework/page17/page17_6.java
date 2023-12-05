@@ -20,7 +20,7 @@ public class page17_6 {
                 count++;
             }
         }
-
+        in.close();
         System.out.println("Number of donors who donated 100 shekels or more: " + count);
     }
 }

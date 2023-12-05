@@ -13,6 +13,7 @@ public class page6_1 {
         int b = in.nextInt();
         System.out.println("Enter the third side of the triangle: ");
         int c = in.nextInt();
+        in.close();
         int perimeter = a + b + c;
         System.out.println("The perimeter of the triangle is: " + perimeter);
     }

@@ -13,6 +13,7 @@ public class page8_1 {
     int grade2 = in.nextInt();
     System.out.println("Enter the third exam grade: ");
     int grade3 = in.nextInt();
+    in.close();
 
     double average = (grade1 + grade2 + grade3) / 3.0;
     System.out.println("The average grade is " + average);

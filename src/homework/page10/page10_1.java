@@ -17,6 +17,7 @@ public class page10_1 {
 
         System.out.println("Enter a two-digit number: ");
         int num = in.nextInt();
+        in.close();
 
         int asarot = num / 10;
         int ahadot = num % 10;
