@@ -70,11 +70,22 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page23_2.java           # Simulate 20 rolls of tow dice, print the results, and count how many times the pair (1,1) and (6,6) occur
     │   ├── page23_3.java           # Count and print the num of times the tens digit is greater than the ones digit in a series of random nums
     │   └── page23_4.java           # Generate 30 random numbers between -100 and 100, prints them, and count how many are positive and negative
-    └── page24                  # 26/12/2023
-        ├── page24_1.java           # Guessing game: where the user has 3 attempts to guess a randomly generated number between 1 and 30
-        ├── page24_2.java           # Rolls 36 nums between 5-12, and count and print how many times the number 8 was drawn
-        ├── page24_3.java           # Generate 27 random nums between 1-99, then determine and print if there are more single-digit or double-digit nums
-        ├── page24_4.java           # Generates 10 random nums, prints them, and calculates and prints the sum and count of both even and odd nums
-        ├── page24_5.java           # Generates 10 random nums between -10 and 10, prints them, and calculates and prints the sum of positive and negative numbers
-        └── page24_6.java           # Generates 10 grades between 40 and 100, prints them, and calculate and print the average grade
+    ├── page24                  # 26/12/2023
+    │   ├── page24_1.java           # Guessing game: where the user has 3 attempts to guess a randomly generated number between 1 and 30
+    │   ├── page24_2.java           # Rolls 36 nums between 5-12, and count and print how many times the number 8 was drawn
+    │   ├── page24_3.java           # Generate 27 random nums between 1-99, then determine and print if there are more single-digit or double-digit nums
+    │   ├── page24_4.java           # Generate 10 random nums, print them, and calculate and print the sum and count of both even and odd nums
+    │   ├── page24_5.java           # Generate 10 random nums between -10 and 10, print them, and calculate and print the sum of positive and negative numbers
+    │   └── page24_6.java           # Generates 10 grades between 40 and 100, print them, and calculate and print the average grade
+    ├── page26                  # 02/01/2024
+    │   ├── page26_1.java           # Roll and print random nums between 1-20 until 13 is drawn
+    │   ├── page26_2.java           # Generate and print random nums between 1-20 as long as their total sum is less than 100
+    │   ├── page26_3.java           # Generate and print random numbers between 1-20 as long as 7 nums greater than 10 have not been drawn yet
+    │   └── page26_4.java           # draw and print random nums between 1-20 as long as 7 even numbers have not been drawn yet
+    └── page27
+        ├── page27_1_0.java         # roll pairs of nums between 1-10 and print their product
+        ├── page27_1_1.java         # (א) As long as the product is less than 80
+        ├── page27_1_2.java         # (ב) As long as the two numbers a, b are different from each other
+        ├── page27_1_3.java         # (ג) Repeat the previous two parts, but instead of rolling the numbers, they are input by the user
+        └── page27_1_4.java         # (ד) Like (ג) but instead of calculating the product, calculate a^2 - b^2
 ```
