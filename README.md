@@ -91,13 +91,22 @@ The exercises are sorted according to the page number they are in the course boo
     ├── page29                  # 09/01/2024
     │   ├── page29_2.java           # Read characters until '#' is entered, and print how many characters were entered
     │   └── page29_3.java           # Read names until 'zerubavel' is entered, and print how many names were entered
-    └── page30                  # 09/01/2024
-        ├── page30_2.java           # Read the num of boxes loaded on ships until -77 is entered, then calculate and print the total number of boxes
-        ├── page30_3.java           # Reads game codes and ticket orders, print the orders, and stop when the game code is 0
-        ├── page30_4.java           # Collect pool entrance data and prints subscription nums greater than 1000
-        ├── page30_5.java           # Register students for an art class and print the total num of registrations, stop when the input is "noname"
-        ├── page30_6.java           # Receive car nums that got parking reports, count them, and print the total, stop when the input is 0
-        ├── page30_7.java           # Track vehicles passing under a bridge or diverted, based on height. Stop at height 9
-        ├── page30_8.java           # Calculate the sum of digits of three-digit nums. It stops when 99 is entered
-        └── page30_9.java           # Read two-digit nums, sum those divisible by 10, and print the sum. It stops when 100 is entered
+    ├── page30                  # 09/01/2024
+    │   ├── page30_2.java           # Read the num of boxes loaded on ships until -77 is entered, then calculate and print the total number of boxes
+    │   ├── page30_3.java           # Reads game codes and ticket orders, print the orders, and stop when the game code is 0
+    │   ├── page30_4.java           # Collect pool entrance data and prints subscription nums greater than 1000
+    │   ├── page30_5.java           # Register students for an art class and print the total num of registrations, stop when the input is "noname"
+    │   ├── page30_6.java           # Receive car nums that got parking reports, count them, and print the total, stop when the input is 0
+    │   ├── page30_7.java           # Track vehicles passing under a bridge or diverted, based on height. Stop at height 9
+    │   ├── page30_8.java           # Calculate the sum of digits of three-digit nums. It stops when 99 is entered
+    │   └── page30_9.java           # Read two-digit nums, sum those divisible by 10, and print the sum. It stops when 100 is entered
+    └── page37                  # 16/01/2024
+        ├── page37_0.java           # Create an array of 20 nums between 1-50 and perform various operations, with each operation separated by a new line and a descriptive title
+        ├── page37_1.java           # 1. Print all the elements of the array in one line, and below the elements of the array print the indices of the array
+        ├── page37_2.java           # 2. Print all the elements in even places
+        ├── page37_3.java           # 3. Print all the elements whose content is even
+        ├── page37_4.java           # 4. Print the places of all the elements equal to the element before the last
+        ├── page37_5.java           # 5. Print all the elements greater than the previous element
+        ├── page37_6.java           # 6. Print the sum of all consecutive elements
+        └── page37_7.java           # 7. Print the product of all consecutive elements 
 ```
