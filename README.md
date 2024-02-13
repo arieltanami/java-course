@@ -69,23 +69,35 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page23_1.java           # Simulate 100 dice rolls and count how many times the result is 5, less than 3, or an even num
     │   ├── page23_2.java           # Simulate 20 rolls of tow dice, print the results, and count how many times the pair (1,1) and (6,6) occur
     │   ├── page23_3.java           # Count and print the num of times the tens digit is greater than the ones digit in a series of random nums
-    │   └── page23_4.java           # Generate 30 random numbers between -100 and 100, prints them, and count how many are positive and negative
+    │   └── page23_4.java           # Generate 30 random nums between -100 and 100, prints them, and count how many are positive and negative
     ├── page24                  # 26/12/2023
     │   ├── page24_1.java           # Guessing game: where the user has 3 attempts to guess a randomly generated number between 1 and 30
     │   ├── page24_2.java           # Rolls 36 nums between 5-12, and count and print how many times the number 8 was drawn
     │   ├── page24_3.java           # Generate 27 random nums between 1-99, then determine and print if there are more single-digit or double-digit nums
     │   ├── page24_4.java           # Generate 10 random nums, print them, and calculate and print the sum and count of both even and odd nums
-    │   ├── page24_5.java           # Generate 10 random nums between -10 and 10, print them, and calculate and print the sum of positive and negative numbers
+    │   ├── page24_5.java           # Generate 10 random nums between -10 and 10, print them, and calculate and print the sum of positive and negative nums
     │   └── page24_6.java           # Generates 10 grades between 40 and 100, print them, and calculate and print the average grade
     ├── page26                  # 02/01/2024
     │   ├── page26_1.java           # Roll and print random nums between 1-20 until 13 is drawn
     │   ├── page26_2.java           # Generate and print random nums between 1-20 as long as their total sum is less than 100
-    │   ├── page26_3.java           # Generate and print random numbers between 1-20 as long as 7 nums greater than 10 have not been drawn yet
-    │   └── page26_4.java           # draw and print random nums between 1-20 as long as 7 even numbers have not been drawn yet
-    └── page27
-        ├── page27_1_0.java         # roll pairs of nums between 1-10 and print their product
-        ├── page27_1_1.java         # (א) As long as the product is less than 80
-        ├── page27_1_2.java         # (ב) As long as the two numbers a, b are different from each other
-        ├── page27_1_3.java         # (ג) Repeat the previous two parts, but instead of rolling the numbers, they are input by the user
-        └── page27_1_4.java         # (ד) Like (ג) but instead of calculating the product, calculate a^2 - b^2
+    │   ├── page26_3.java           # Generate and print random nums between 1-20 as long as 7 nums greater than 10 have not been drawn yet
+    │   └── page26_4.java           # Draw and print random nums between 1-20 as long as 7 even nums have not been drawn yet
+    ├── page27                  # 02/01/2024
+    │   ├── page27_1_0.java         # Roll pairs of nums between 1-10 and print their product
+    │   ├── page27_1_1.java         # (א) As long as the product is less than 80
+    │   ├── page27_1_2.java         # (ב) As long as the two nums a, b are different from each other
+    │   ├── page27_1_3.java         # (ג) Repeat the previous two parts, but instead of rolling the nums, they are input by the user
+    │   └── page27_1_4.java         # (ד) Like (ג) but instead of calculating the product, calculate a^2 - b^2
+    ├── page29                  # 09/01/2024
+    │   ├── page29_2.java           # Read characters until '#' is entered, and print how many characters were entered
+    │   └── page29_3.java           # Read names until 'zerubavel' is entered, and print how many names were entered
+    └── page30                  # 09/01/2024
+        ├── page30_2.java           # Read the num of boxes loaded on ships until -77 is entered, then calculate and print the total number of boxes
+        ├── page30_3.java           # Reads game codes and ticket orders, print the orders, and stop when the game code is 0
+        ├── page30_4.java           # Collect pool entrance data and prints subscription nums greater than 1000
+        ├── page30_5.java           # Register students for an art class and print the total num of registrations, stop when the input is "noname"
+        ├── page30_6.java           # Receive car nums that got parking reports, count them, and print the total, stop when the input is 0
+        ├── page30_7.java           # Track vehicles passing under a bridge or diverted, based on height. Stop at height 9
+        ├── page30_8.java           # Calculate the sum of digits of three-digit nums. It stops when 99 is entered
+        └── page30_9.java           # Read two-digit nums, sum those divisible by 10, and print the sum. It stops when 100 is entered
 ```
