@@ -37,7 +37,7 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page11_2.java           # Convert temperatures between Celsius and Fahrenheit based on user input
     │   └── page11_3.java           # Swap two nums if needed to ensure 'a' is smaller than 'b'
     ├── page12                  # 21/11/2023
-    │   ├── page12_1.java           # Shaashuon 2023
+    │   └── page12_1.java           # Shaashuon 2023
     ├── page15                  # 21/11/2023
     │   ├── page15_1.java           # Print your name 5 times
     │   ├── page15_2.java           # Print the nums 1 to 25
@@ -71,8 +71,8 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page23_3.java           # Count and print the num of times the tens digit is greater than the ones digit in a series of random nums
     │   └── page23_4.java           # Generate 30 random nums between -100 and 100, prints them, and count how many are positive and negative
     ├── page24                  # 26/12/2023
-    │   ├── page24_1.java           # Guessing game: where the user has 3 attempts to guess a randomly generated number between 1 and 30
-    │   ├── page24_2.java           # Rolls 36 nums between 5-12, and count and print how many times the number 8 was drawn
+    │   ├── page24_1.java           # Guessing game: where the user has 3 attempts to guess a randomly generated num between 1 and 30
+    │   ├── page24_2.java           # Rolls 36 nums between 5-12, and count and print how many times the num 8 was drawn
     │   ├── page24_3.java           # Generate 27 random nums between 1-99, then determine and print if there are more single-digit or double-digit nums
     │   ├── page24_4.java           # Generate 10 random nums, print them, and calculate and print the sum and count of both even and odd nums
     │   ├── page24_5.java           # Generate 10 random nums between -10 and 10, print them, and calculate and print the sum of positive and negative nums
@@ -92,7 +92,7 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page29_2.java           # Read characters until '#' is entered, and print how many characters were entered
     │   └── page29_3.java           # Read names until 'zerubavel' is entered, and print how many names were entered
     ├── page30                  # 09/01/2024
-    │   ├── page30_2.java           # Read the num of boxes loaded on ships until -77 is entered, then calculate and print the total number of boxes
+    │   ├── page30_2.java           # Read the num of boxes loaded on ships until -77 is entered, then calculate and print the total num of boxes
     │   ├── page30_3.java           # Reads game codes and ticket orders, print the orders, and stop when the game code is 0
     │   ├── page30_4.java           # Collect pool entrance data and prints subscription nums greater than 1000
     │   ├── page30_5.java           # Register students for an art class and print the total num of registrations, stop when the input is "noname"
@@ -100,13 +100,23 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page30_7.java           # Track vehicles passing under a bridge or diverted, based on height. Stop at height 9
     │   ├── page30_8.java           # Calculate the sum of digits of three-digit nums. It stops when 99 is entered
     │   └── page30_9.java           # Read two-digit nums, sum those divisible by 10, and print the sum. It stops when 100 is entered
-    └── page37                  # 16/01/2024
-        ├── page37_0.java           # Create an array of 20 nums between 1-50 and perform various operations, with each operation separated by a new line and a descriptive title
-        ├── page37_1.java           # 1. Print all the elements of the array in one line, and below the elements of the array print the indices of the array
-        ├── page37_2.java           # 2. Print all the elements in even places
-        ├── page37_3.java           # 3. Print all the elements whose content is even
-        ├── page37_4.java           # 4. Print the places of all the elements equal to the element before the last
-        ├── page37_5.java           # 5. Print all the elements greater than the previous element
-        ├── page37_6.java           # 6. Print the sum of all consecutive elements
-        └── page37_7.java           # 7. Print the product of all consecutive elements 
+    ├── page37                  # 16/01/2024
+    │   ├── page37_0.java           # Create an array of 20 nums between 1-50 and perform various operations, with each operation separated by a new line and a descriptive title
+    │   ├── page37_1.java           # 1. Print all the elements of the array in one line, and below the elements of the array print the indices of the array
+    │   ├── page37_2.java           # 2. Print all the elements in even places
+    │   ├── page37_3.java           # 3. Print all the elements whose content is even
+    │   ├── page37_4.java           # 4. Print the places of all the elements equal to the element before the last
+    │   ├── page37_5.java           # 5. Print all the elements greater than the previous element
+    │   ├── page37_6.java           # 6. Print the sum of all consecutive elements
+    │   └── page37_7.java           # 7. Print the product of all consecutive elements
+    └── page38                  # 23/01/2024
+        ├── page38_1.java           # Read 20 students' scores, calculate the class average, and print the average and the count of students scoring above average
+        ├── page38_2.java           # Read 10 nums and print them in reverse order
+        ├── page38_3.java           # Read 25 nums and print how many of them are equal to the last num
+        ├── page38_4.java           # Generate an array of random nums and calculate and print the sum of nums at even and odd index positions
+        ├── page38_5.java           # Fill an array with random nums at even indexes and the negative of the previous num at odd indexes, then print the array
+        ├── page38_6.java           # Fill an array with multiples of 3 at even indexes and negative multiples of 2 at odd indexes, then prints it
+        ├── page38_7.java           # Read a num, assign it to the first place in a 10-length array, fill the rest with subsequent nums, and prints the array
+        ├── page38_8.java           # Rotate elements of a 10-length array one place to the right, move the last element to the start
+        └── page38_9.java           # Rotate elements of a 10-length array one place to the left, move the first element to the end
 ```
