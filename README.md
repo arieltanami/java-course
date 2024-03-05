@@ -109,14 +109,20 @@ The exercises are sorted according to the page number they are in the course boo
     │   ├── page37_5.java           # 5. Print all the elements greater than the previous element
     │   ├── page37_6.java           # 6. Print the sum of all consecutive elements
     │   └── page37_7.java           # 7. Print the product of all consecutive elements
-    └── page38                  # 23/01/2024
-        ├── page38_1.java           # Read 20 students' scores, calculate the class average, and print the average and the count of students scoring above average
-        ├── page38_2.java           # Read 10 nums and print them in reverse order
-        ├── page38_3.java           # Read 25 nums and print how many of them are equal to the last num
-        ├── page38_4.java           # Generate an array of random nums and calculate and print the sum of nums at even and odd index positions
-        ├── page38_5.java           # Fill an array with random nums at even indexes and the negative of the previous num at odd indexes, then print the array
-        ├── page38_6.java           # Fill an array with multiples of 3 at even indexes and negative multiples of 2 at odd indexes, then prints it
-        ├── page38_7.java           # Read a num, assign it to the first place in a 10-length array, fill the rest with subsequent nums, and prints the array
-        ├── page38_8.java           # Rotate elements of a 10-length array one place to the right, move the last element to the start
-        └── page38_9.java           # Rotate elements of a 10-length array one place to the left, move the first element to the end
+    ├── page38                  # 23/01/2024
+    │   ├── page38_1.java           # Read 20 students' scores, calculate the class average, and print the average and the count of students scoring above average
+    │   ├── page38_2.java           # Read 10 nums and print them in reverse order
+    │   ├── page38_3.java           # Read 25 nums and print how many of them are equal to the last num
+    │   ├── page38_4.java           # Generate an array of random nums and calculate and print the sum of nums at even and odd index positions
+    │   ├── page38_5.java           # Fill an array with random nums at even indexes and the negative of the previous num at odd indexes, then print the array
+    │   ├── page38_6.java           # Fill an array with multiples of 3 at even indexes and negative multiples of 2 at odd indexes, then prints it
+    │   ├── page38_7.java           # Read a num, assign it to the first place in a 10-length array, fill the rest with subsequent nums, and prints the array
+    │   ├── page38_8.java           # Rotate elements of a 10-length array one place to the right, move the last element to the start
+    │   └── page38_9.java           # Rotate elements of a 10-length array one place to the left, move the first element to the end
+    └── page39                  # 30/01/2024
+        ├── page39_1.java           # Input from user 100 nums, store them in an array, and print the array in both forward and reverse order
+        ├── page39_2.java           # Given an array of positive integers a. Display even nums. b. Display nums at even indices. c. Show the sum of nums  divisible by 3
+        ├── page39_3.java           # Prints "double-digit" if an array has more double-digit than single-digit nums, otherwise it prints "single-digit"
+        ├── page39_4.java           # Calculate and print if the sum of the first half of an array is greater than the sum of the second half, or vice versa
+        └── page39_5.java           # Get form user nums between 25 to 90 and a num smaller than 90, print all the nums in the array that are bigger than the input num
 ```
